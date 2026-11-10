@@ -12,7 +12,7 @@ I work **AI-assisted**: I define the problem, the architecture and the acceptanc
 
 - **AI agents & MCP:** local MCP servers, a policy proxy between an AI agent and CAD software, and multi-agent development workflows with approval gates.
 - **Engineering & building automation:** I/O card distribution, BOM and engineering checks for building management systems (BMS); CAD automation.
-- **Native apps:** SwiftUI and SwiftData on iOS and macOS, and React Native (Expo) / Next.js for cross-platform work.
+- **Native apps:** SwiftUI and SwiftData on iOS and macOS, and React Native (Expo) / Next.js for mobile and web work.
 - **3D pipelines:** Blender → USDZ → RealityKit, photogrammetry, and parametric mechanical models.
 - **Game prototypes:** Godot and Unreal Engine.
 
